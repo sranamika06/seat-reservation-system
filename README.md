@@ -1,1 +1,1 @@
-# seat-reservation-system
+# seat-reservation-system As a member of the team, In this project I have written the Literature Survey for the seat reservation system, which includes Comparing existing systems or similar projects. Discuss what makes our system unique. I also did the future scope of seat reservation system which includes Proposed Enhancements and also its conclusion
